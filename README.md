@@ -156,7 +156,7 @@ No se ve un solo `Pin(13).value(...)` en el módulo de comunicaciones. Esto cump
 
 ## Reporte y análisis individual
 
-El reporte completo con la sección de análisis individual por integrante (problema → solución → conclusión) se encuentra en `docs/Reporte_Unidad4.docx`.
+El reporte completo con la sección de análisis individual por integrante (problema → solución → conclusión) se encuentra en `docs/Reporte.docx`.
 
 ## Licencia y autoría
 
