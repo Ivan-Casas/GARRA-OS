@@ -3,7 +3,7 @@
 **Instituto Tecnológico de León**
 Ingeniería en Sistemas Computacionales — Sistemas Programables
 
-Unidad 4: Comunicaciones — Integración MQTT
+Unidad 4: Comunicaciones
 
 Docente: Ma. Verónica Tapia Ibarra
 
